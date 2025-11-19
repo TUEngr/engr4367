@@ -1,0 +1,5 @@
+#CHIP 16f88
+Do Forever
+    PulseOut PortA.2, 500 ms
+    Wait 500 ms
+Loop

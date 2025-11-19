@@ -1,0 +1,5 @@
+#CHIP 12f683
+Do Forever
+    PulseOut GP5, 500 ms
+    Wait 500 ms
+Loop
